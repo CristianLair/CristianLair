@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **cristianlair@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/CristianLair](https://github.com/CristianLair)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
