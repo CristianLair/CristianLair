@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on [ecommerce nft backend](https://github.com/CristianLair/Backend-PF-Henry)
 
+- ⚡ Know my projects **https://proyecto-countries-henry.vercel.app/ - https://poke-api-henry.vercel.app/ 
+
 - 🌱 I’m currently learning **React Native, TypeScript**
 
 - 💬 Ask me about **React,NodeJs,MongoDB,PosgreSQL,JavaScript,Git.**
